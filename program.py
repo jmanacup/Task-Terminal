@@ -124,13 +124,13 @@ def deleteTask():
 def main():
 
     tasks = openRecord()
-    print("\n\n ==================TO-DO List==================='\n\n")
+    print("\n\n==================TO-DO List===================\n\n")
     print("Whats up in your mind?\n\n")
     print("1. Add Task")
     print("2. Delete Task")
     print("3. Edit Task")
-    print("4. Arrange Task")
-    print("5. Browse Task")
+    print("4. Arrange Tasks")
+    print("5. Browse Tasks")
     print("6. Quit")
 
     choice = input("\n\nPlease make a choice: ")
