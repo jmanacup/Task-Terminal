@@ -1,6 +1,8 @@
 # Task-Terminal
 
-A simple task-management Python app that runs in terminal. It follows a priority-based task creator. Made using the `os` library.
+A simple task-management Python app that runs in terminal. It follows a priority-based task creator. 
+
+Made using the `os` library.
 
 ## Installation
 `Clone` the project and simply run by running in the terminal:
